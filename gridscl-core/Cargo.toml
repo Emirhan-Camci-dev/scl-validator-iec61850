@@ -1,0 +1,15 @@
+[package]
+name = "gridscl-core"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+authors = ["Emirhan CAMCI <byemir@live.com>"]
+description = "High-Performance Deterministic SCL Parsing & Schema Engine"
+license = "AGPL-3.0"
+repository = "https://github.com/yourusername/gridscl-validator"
+
+[dependencies]
+quick-xml = "0.31"
+serde = { version = "1.0", features = ["derive"] }
+thiserror = "1.0"
+log = "0.4"
