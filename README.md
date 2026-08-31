@@ -51,7 +51,7 @@ This repository uses an **Open-Core / Dual-Licensing** model to ensure sustainab
 
 Ready for production? Unlock the Enterprise Pro Tier for your Conformance Test Laboratory or Engineering Team:
 
-[![Buy Enterprise License on Polar.sh](https://polar.sh/assets/brand/polar-badge-dark.svg)](https://polar.sh/GridSCL-Validator/subscriptions)
+[![Buy Enterprise License on Polar.sh](https://buy.polar.sh/polar_cl_rmWEFxRqzYaC7PEO0hWC3jspBky0shsO4Ds5b2W29s2)
 
 ---
 
